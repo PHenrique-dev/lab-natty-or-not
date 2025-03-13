@@ -32,7 +32,7 @@ Foram usadas o ChatGPT para criar uma entrevista de podcast, ElevenLabs para faz
 Foram usadas o ChatGPT para criar uma entrevista de podcast fake, logo em seguida usei o ElevenLabs para fazer a função text-to-speech e com o áudio gerado eu usei o Colossyan para criar os avatares dialogando.
 
 ## 🚀 Resultados
-
+https://github.com/PHenrique-dev/lab-natty-or-not/blob/main/podcast.mp4
 
 ## 💭 Reflexão (Opcional)
 Primeira vez que usei algumas ferramentas, foi interessante, vi como funciona a criação de alguns vídeos que já havia visto pela web.
